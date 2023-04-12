@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align=center>Olá! Eu Sou Ricardo Santos Ferreira 👋<h1/>
 
-<!--
-**RickAE/RickAe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩🏽‍💻 Desenvolvedor Front End; 
+## 💻Técnico em Desenvolvimento de Sistemas; 
+## 👨🏽‍🎓Graduando em Desenvolvimento de Software Multiplataforma;
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+
+   <img width="320px" height="402px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickAe&show_icons&theme=dracula">
+   <img width="687px" height="400px" src="https://github-readme-stats.vercel.app/api?username=RickAE&show_icons=true&theme=dracula">
+   
+</div>
